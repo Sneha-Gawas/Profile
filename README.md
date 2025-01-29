@@ -10,4 +10,4 @@
 1) Credit Card Marketing Analysis
 2) Us Government Revenue Collection Analysis
 3) BikeShare Analysis
-📫 **Contact Me:** [LinkedIn](https://linkedin.com/sneha-gawas/)  
+## 📫 **Contact:** [LinkedIn](https://linkedin.com/sneha-gawas/)  

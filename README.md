@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Sneha Gawas
 
-💡 I working on projects with my team members
+💡 I am working on projects with my team members
 
 ## 🚀 Contributions
 🔹 Collaborating on [FoodShare](https://github.com/pallavibandarkar/FoodShare.git)

@@ -10,4 +10,5 @@
 1) Credit Card Marketing Analysis 🔗 **[Launch Website](https://frontend-miv7.onrender.com)**
 2) Us Government Revenue Collection Analysis
 3) BikeShare Analysis
+4) Stock Prediction  🔗 **[Launch Website](https://stock12.streamlit.app/)**
 ## 📫 **Contact:** [LinkedIn](https://linkedin.com/in/sneha-gawas)  

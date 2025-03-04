@@ -11,4 +11,5 @@
 2) Us Government Revenue Collection Analysis
 3) BikeShare Analysis
 4) Stock Prediction  🔗 **[Launch Website](https://stock12.streamlit.app/)**
+5) Seo Analysis 🔗 **[Launch Website](https://seo-mmzn.onrender.com/)**
 ## 📫 **Contact:** [LinkedIn](https://linkedin.com/in/sneha-gawas)  

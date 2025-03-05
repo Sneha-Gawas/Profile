@@ -9,7 +9,6 @@
 ##  🚀  Projects
 1) Credit Card Marketing Analysis 🔗 **[Launch Website](https://frontend-miv7.onrender.com)**
 2) Us Government Revenue Collection Analysis **[Launch Website](https://collection-wmes.onrender.com)** 
-3) BikeShare Analysis
-4) Stock Prediction  🔗 **[Launch Website](https://stock12.streamlit.app/)**
-5) Seo Analysis 🔗 **[Launch Website](https://seo-mmzn.onrender.com/)**
+3) Stock Prediction  🔗 **[Launch Website](https://stock12.streamlit.app/)**
+4) Seo Analysis 🔗 **[Launch Website](https://seo-mmzn.onrender.com/)**
 ## 📫 **Contact:** [LinkedIn](https://linkedin.com/in/sneha-gawas)  

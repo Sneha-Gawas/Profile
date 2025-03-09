@@ -8,7 +8,7 @@
 🔹 Collaborating on [Cafe Analytics](https://github.con/pallavibandarkar/Cafe-Analytics.git)
 ##  🚀  Projects
 1) Credit Card Marketing Analysis 🔗 **[Launch Website](https://frontend-miv7.onrender.com)**
-2) Us Government Revenue Collection Analysis 🔗 **[Launch Website](https://collection-wmes.onrender.com)** 
+2) Us Government Revenue Collection Analysis 🔗 **[Launch Website](https://sneha-gawas-collection-o-n62abc.streamlit.app/)** 
 3) Stock Prediction  🔗 **[Launch Website](https://stock12.streamlit.app/)**
 4) Seo Analysis 🔗 **[Launch Website](https://seo-mmzn.onrender.com/)**
 ## 📫 **Contact:** [LinkedIn](https://linkedin.com/in/sneha-gawas)  

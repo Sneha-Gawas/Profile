@@ -12,4 +12,5 @@
 3) Stock Prediction  🔗 **[Launch Website](https://stock12.streamlit.app/)**
 4) Seo Analysis 🔗 **[Launch Website](https://seo-mmzn.onrender.com/)**
 5) Bikeride-Share Analysis 🔗 **[Launch Website](https://sneha-gawas-bike-m-yaugrb.streamlit.app/)**
+6) Negotiation and Diplomacy Assistant
 ## 📫 **Contact:** [LinkedIn](https://linkedin.com/in/sneha-gawas)  

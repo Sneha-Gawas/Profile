@@ -5,7 +5,7 @@
 
 ## 🚀 Contributions
 🔹 Collaborating on [FoodShare](https://github.com/pallavibandarkar/FoodShare.git)
-🔹 Collaborating on [Cafe Analytics](https://github.com/pallavibandarkar/Cafe-Analytics.git)
+🔹 Collaborating on [Business Intelligence and Predictive Analytics For Cafe](https://github.com/pallavibandarkar/Cafe-Analytics.git)
 ##  🚀  Projects
 1) Credit Card Marketing Analysis 🔗 **[Launch Website](https://frontend-miv7.onrender.com)**
 2) Us Government Revenue Collection Analysis 🔗 **[Launch Website](https://sneha-gawas-collection-o-n62abc.streamlit.app/)** 

@@ -4,7 +4,7 @@
 💡 I am working on projects with my team members
 
 ## 🚀 Contributions
-🔹 Collaborating on [FoodShare](https://github.com/pallavibandarkar/FoodShare.git)
+🔹 Collaborating on [FoodShare](https://github.com/Sneha-Gawas/FoodDonation.git)
 🔹 Collaborating on [Business Intelligence and Predictive Analytics For Cafe](https://github.com/Sneha-Gawas/Business-Intelligence-and-Predictive-Analytics.git)
 ##  🚀  Projects
 1) Credit Card Marketing Analysis 🔗 **[Launch Website](https://frontend-miv7.onrender.com)**

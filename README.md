@@ -1,8 +1,5 @@
 
 # 👋 Hi, I'm Sneha Gawas
-
-💡 I am working on projects with my team members
-
 ## 🚀 Contributions
 🔹 Collaborated on [FoodShare](https://github.com/Sneha-Gawas/FoodDonation.git)
 🔹 Collaborated on [Business Intelligence and Predictive Analytics For Cafe](https://github.com/Sneha-Gawas/Business-Intelligence-and-Predictive-Analytics.git)

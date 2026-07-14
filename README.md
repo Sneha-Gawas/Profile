@@ -10,5 +10,6 @@
 4) Stock Prediction  🔗 **[Launch Website](https://stock12.streamlit.app/)**
 5) Seo Analysis 🔗 **[Launch Website](https://seo-mmzn.onrender.com/)**
 6) Bikeride-Share Analysis 🔗 **[Launch Website](https://sneha-gawas-bike-m-yaugrb.streamlit.app/)**
+7) Financial Assistant using OLLAMA
 
 ## 📫 **Contact:** [LinkedIn](https://linkedin.com/in/sneha-gawas)  
